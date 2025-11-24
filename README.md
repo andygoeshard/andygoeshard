@@ -10,7 +10,7 @@
   <a href="https://github.com/andygoeshard">
     <img src="https://img.shields.io/badge/GitHub-andygoeshard-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/andygoeshard">
+  <a href="https://www.linkedin.com/in/gabriel-aquino-9366689b/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
