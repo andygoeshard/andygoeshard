@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>👋 Hi, I'm <strong>Gabriel Andrés Aquino</strong></h1>
+<h1>Hi, I'm <strong>Gabriel Andrés Aquino</strong></h1>
 
-<h2> You can call me Andy 😎</h2>
+<h2>You can call me Andy 😎</h2>
 
-<h3>Android Developer • Kotlin • Jetpack Compose • Clean Architecture</h3>
+<h3>Kotlin Developer · Android · Compose Multiplatform · Backend</h3>
 
 <p>
   <a href="https://github.com/andygoeshard">
@@ -13,133 +13,195 @@
   <a href="https://www.linkedin.com/in/gabriel-aquino-9366689b/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="mailto:andreslumty@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## <h2>💻 About Me</h2>
+## About Me
 
-I'm an Android developer specialized in **Kotlin + Jetpack Compose**, focused on building scalable, accessible and clean apps with modern architecture.
+I'm a Kotlin developer working across the full stack — from pixel-perfect **Android & Multiplatform** UIs to **REST APIs** running on a production VPS.
 
-I enjoy solving real problems through well-designed software, working with feature-based modularization, StateFlow, Coroutines, and clean code principles.
+I build apps with **Jetpack Compose**, **Compose Multiplatform** (Android, iOS, Desktop, Web), and backend services with **Ktor + PostgreSQL** deployed on a Debian server with Docker. I care about clean architecture, accessibility, and shipping software that actually solves problems.
 
----
+When I'm not coding, I'm probably listening to music or tinkering with IoT projects.
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andygoeshard&layout=compact&theme=tokyonight" height="160" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andygoeshard&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andygoeshard&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andygoeshard&theme=tokyonight&hide_border=true)
 
 </div>
 
-## <h2>🔧 Tech Stack</h2>
+### Currently
+
+- 🔭 Building **Ignite** — a KMP cross-platform LAN file transfer app
+- 🌐 Maintaining production APIs on a VPS with Docker + Ktor
+- 📚 Learning more about networking, security, and distributed systems
+
+### Open to
+
+- 💼 Freelance projects (Android / Kotlin / Backend)
+- 🤝 Open source collaborations
+- 💡 Interesting ideas that need a full-stack Kotlin developer
+
+---
+
+## Tech Stack
 
 <div align="left">
 
-**Languages:** Kotlin, Java, Python  
-**Architecture:** MVVM, Clean Architecture, MVI, Feature Modularization, DI with Koin  
-**UI / Mobile:** Jetpack Compose, StateFlow, ViewModel, Navigation Compose  
-**Networking:** Ktor, Retrofit, OkHttp, Kotlinx Serialization  
-**Databases:** Room, SQL Server, PostgreSQL, DataStore Preferences  
+**Languages:** Kotlin, Java, Python, C#  
+**Architecture:** MVVM, MVI, Clean Architecture, Feature Modularization, DI with Koin  
+**Android / Mobile:** Jetpack Compose, Compose Multiplatform, StateFlow, ViewModel, Navigation Compose, CameraX  
+**Multiplatform:** Kotlin Multiplatform, Room (multiplatform), Koin (multiplatform)  
+**Backend:** Ktor (server), Exposed, Flyway, PostgreSQL, SQL Server, Docker  
+**Networking:** Ktor Client, Retrofit, OkHttp, Kotlinx Serialization  
+**Databases:** Room, PostgreSQL, SQL Server, DataStore Preferences  
+**Storage:** MinIO (object storage)  
 **CI/CD:** GitHub Actions, Firebase App Distribution, Play Console  
-**Other:** TTS, Speech Recognition, CameraX, Audio Processing, OCR  
+**Other:** TTS, Speech Recognition, OCR, Google Maps, Firebase AI, Google Play Billing
 
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="compose" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
 </div>
 
 ---
 
-## <h2>📱 Featured Projects</h2>
+## Featured Projects
 
-### <h3>📘 Wirin — Accessible academic material platform</h3>
+### Ignite — LAN file transfer (KMP)
 
-Platform for digitizing and adapting academic content for visually impaired students.
+> Transferencia rápida y directa de archivos en tu red local. Sin internet, sin la nube, punto a punto.
 
-**Highlights:**
-- Full Android app built with **Jetpack Compose**
-- **TTS** (Text-to-Speech) and accessible audio player
-- Clean Architecture + StateFlow + Coroutines + Koin
-- Collaboration with .NET backend team
+Transfer files between devices on the same Wi-Fi with zero cloud dependency. Features UDP broadcast + mDNS device discovery, PIN pairing, trusted devices, real-time neon progress bars, and a cyberpunk UI.
 
-➡️ <a href="https://github.com/andygoeshard/Wirin_App">Repository</a>
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Ktor · Room · Koin · Navigation 3  
+**Targets:** Android + Desktop (JVM)
 
 ---
 
-### <h3>🛒 Ratonean2 — Price comparison app</h3>
+### Iris — Dynamic live wallpaper
 
-App to compare product prices across supermarkets.
+> Your screen, synced with the world around you.
 
-**Stack:** Kotlin, Jetpack Compose, Google Maps, Ktor, Room, MVVM + Clean Architecture  
-Features: fast search, favorites, store branches, custom lists.
+Published on Google Play Store. A live wallpaper that reacts to weather (6 moods), time of day, temperature, and GPS location. Supports video wallpapers (MP4, MKV, WEBM), 30+ curated packs, built-in image search, gallery import, text overlay, and battery-saving mode.
 
-➡️ <a href="https://github.com/Romercado04/ratonean2">Repository</a>
+**Stack:** Kotlin · Jetpack Compose (Material 3) · Media3 · WorkManager · Koin  
+**Model:** Freemium (Iris Pro)
 
----
-
-### <h3>📱 QR Scanner — Fast and modern QR app</h3>
-
-A fun, fast QR scanner with history, favorites and sharing.
-
-**Tech:** Jetpack Compose, CameraX, Room, Navigation Compose, Koin, MVVM + Clean Architecture  
-**Features:** auto URL detection, dark/light mode, sharing via WhatsApp/email, saved history.
-
-➡️ <a href="https://github.com/andygoeshard/QrScannerAndy">Repository</a>
+[![Google Play](https://img.shields.io/badge/Google%20Play-Get%20it-green?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.andyl.iris)
 
 ---
 
-## <h2>📫 Contact</h2>
+### Esme — Block-based notes (KMP)
 
-- 📧 Email: <a href="mailto:andreslumty@gmail.com">andreslumty@gmail.com</a>  
+> A cross-platform note-taking app with a rich block editor.
+
+Build notes from typed blocks: text fields, todos, quotes, expense tracking, calendar blocks, and priority blocks. Local storage with Room, remote sync via Ktor backend, tag management with graph visualization.
+
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Ktor · Room · Koin  
+**Targets:** Android + iOS + Desktop 
 
 ---
+
+### Wirin — Accessible academic platform
+
+> Digitizing and adapting academic content for visually impaired students.
+
+Full Android app with TTS (text-to-speech), accessible audio player, document processing with OCR, and a volunteer/task management system with a .NET backend.
+
+**Stack:** Kotlin · Jetpack Compose · Clean Architecture · StateFlow · Koin · Tesseract OCR  
+**Backend:** .NET 8 · ASP.NET Core · Entity Framework · Docker
+
+---
+
+### Ratonean2 — Price comparison app
+
+> Find the best deals at nearby supermarkets.
+
+Compare product prices across stores, browse by branch, view products on a map, manage shopping lists, and authenticate with phone auth.
+
+**Stack:** Kotlin · Jetpack Compose · Room · Ktor · MapLibre + Google Maps · Google Identity Services · MVVM + Clean Architecture
+
+---
+
+### QR Scanner — Fast & modern QR app
+
+> Scan, save, share.
+
+A fun, fast QR scanner with history, favorites, and sharing. Auto URL detection, dark/light mode, and clean MVVM architecture.
+
+**Stack:** Kotlin · Jetpack Compose · CameraX · Room · Navigation Compose · Koin
+
+---
+
+## Backend & API Design
+
+Beyond mobile, I build backend services with a focus on **clean architecture**, **testability**, and **production-ready infrastructure**:
+
+- **Ktor + Exposed** — REST APIs with idiomatic Kotlin, DSL-based query building, and multi-module clean architecture
+- **PostgreSQL** — schema design, JSONB for flexible data, migrations with Flyway
+- **Docker Compose** — full dev environments with database, object storage, and API server
+- **MinIO** — S3-compatible object storage for file uploads with abstraction layers (replaceable storage backends)
+- **Testing** — JUnit 5, Testcontainers (real PostgreSQL in tests), Ktor test host for integration tests
+- **Authentication & validation** — request validation, structured error handling, status codes done right
+
+---
+
+## What I'm Into
+
+- 🎯 **Accessibility** — building software that works for everyone, not just abled users
+- 🔀 **Kotlin Multiplatform** — one language, every platform
+- 🏗️ **Clean Architecture** — strict dependency rules, testable layers, no magic
+- 🎧 **Music while coding** — non-negotiable
 
 <div align="center">
-  <h3>⚡ Fun Facts</h3>
-  🎧 Music is my superpower while coding <br/>
-  🧪 I experiment a lot with architecture & performance <br/>
-  🧠 Clean code believer <br/>
-  🔥 Always building something new  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andygoeshard&theme=tokyonight&hide_border=true)
+
 </div>
 
+---
+
 <div align="center">
-  <img 
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2OW1qeGlwaTAwZHVxbzZhYzRydGozeTRrN3VvNWFoajdwcHBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" 
-    width="300"
-  />
+
+### ⚡ Fun Facts
+
+🎧 Music is my superpower while coding  
+🧪 I experiment a lot with architecture & performance  
+🧠 Clean code believer  
+🔥 Always building something new  
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI2OW1qeGlwaTAwZHVxbzZhYzRydGozeTRrN3VvNWFoajdwcHBxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="300" />
+
 </div>
