@@ -32,11 +32,13 @@ When I'm not coding, I'm probably listening to music or tinkering with IoT proje
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andygoeshard&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=andygoeshard&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andygoeshard&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=andygoeshard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andygoeshard&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=andygoeshard&theme=dark&hide_border=false)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=andygoeshard&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
