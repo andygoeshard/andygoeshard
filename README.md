@@ -185,12 +185,6 @@ Beyond mobile, I build backend services with a focus on **clean architecture**, 
 - 🏗️ **Clean Architecture** — strict dependency rules, testable layers, no magic
 - 🎧 **Music while coding** — non-negotiable
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andygoeshard&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
